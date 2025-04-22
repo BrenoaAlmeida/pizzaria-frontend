@@ -1,0 +1,6 @@
+# Permite que todos os robôs de busca acessem o site
+User-agent: *
+Allow: /
+
+# Adiciona referência ao sitemap
+Sitemap: https://pizzaria-frontend.vercel.app/sitemap.xml
